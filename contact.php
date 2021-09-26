@@ -768,7 +768,7 @@
                         </g>
                     </svg></div>
                 <h4>Phone Number</h4>
-                <span>+916203147160,+919525953768</span>
+                <span>+919934914154</span>
             </div>
             <div class="box1">
                 <div class="img"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="50" height="50"
@@ -887,7 +887,7 @@
                                 <br>
                                 Bihar India,
                                 <br>
-                                Phone:+916203147160
+                                Phone:+919934914154
                                 <br>
                                 Email:
                                 <a id="second-email" href="mailto:puzzelsteam@gmail.com">puzzlesteam@gmail.com</a>
